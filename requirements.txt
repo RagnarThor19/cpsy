@@ -1,0 +1,6 @@
+gpiozero
+simple-pid
+adafruit-blinka
+adafruit-circuitpython-mcp3xxx
+adafruit-circuitpython-tcs34725
+adafruit-circuitpython-icm20x

@@ -118,7 +118,7 @@ try:
 
         if obstacle:
             stop_robot()
-            print("OBSTACLE DETECTED - STOP THE MFKN CAR! | IR:", round(voltage, 2), "V")
+            print("OBSTACLE DETECTED - STOP THE CAR! | IR:", round(voltage, 2), "V")
             break
 
         current_a = encoder_a.steps
